@@ -92,6 +92,12 @@ Follow these steps to run the project on your local machine.
   <br>
   <em>Figure 1: n8n Workflow Logic</em>
 </div>
+<br>
+<div align="center">
+  <img width="771" height="1059" alt="Telegram Screenshot" src="https://github.com/user-attachments/assets/4659cad4-881b-4dc0-92b0-057f414d4158" />
+  <br>
+  <em>Figure 2: A working example</em>
+</div>
 
 ---
 
