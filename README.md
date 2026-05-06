@@ -103,6 +103,6 @@ Follow these steps to run the project on your local machine.
 
 ## 🤝 Contact
 
-**Murtaza** - [GitHub Profile](https://github.com/Mur-ti)
+**Murtaza** - [GitHub Profile](https://github.com/buyrukDev)
 
 Project Link: [https://github.com/Mur-ti/Privacy-First-Local-AI-Assistant-via-Telegram](https://github.com/Mur-ti/Privacy-First-Local-AI-Assistant-via-Telegram)
