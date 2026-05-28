@@ -107,4 +107,4 @@ Follow these steps to run the project on your local machine.
 
 Project Link: [https://github.com/Mur-ti/Privacy-First-Local-AI-Assistant-via-Telegram](https://github.com/Mur-ti/Privacy-First-Local-AI-Assistant-via-Telegram)
 
-Project Working Video: [OneDrive-Clipchamp Video](https://ankarauniv-my.sharepoint.com/:v:/g/personal/24450294_ogrenci_ankara_edu_tr/IQBmjijBOr5WQ7jHOKORXJQQARXC1f992GSgmwFNQpSkTfM?e=C8arXo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Project Working Video: [OneDrive-Clipchamp Video](https://ankarauniv-my.sharepoint.com/:v:/g/personal/24450294_ogrenci_ankara_edu_tr/IQBmjijBOr5WQ7jHOKORXJQQAXhJnMm9YCF_JCauGMO4ScU)
